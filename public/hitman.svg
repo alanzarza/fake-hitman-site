@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m110,237.67752l289.99966,-201.67752l290.00034,201.67752l-110.76977,326.32246l-358.46012,0l-110.7701,-326.32246z" stroke="#000" fill="#4B252D"/>
+  <path id="svg_2" d="m32.5,238.69988l208.55491,0l64.44507,-209.69991l64.44511,209.69991l208.55488,0l-168.72416,129.60019l64.44841,209.69991l-168.72423,-129.60372l-168.7242,129.60372l64.44843,-209.69991l-168.72422,-129.60019z" stroke="#000" fill="#97944B"/>
+  <text transform="rotate(179.867, 399.569, 295.1) matrix(26.8149, 0, 0, 22.0141, -9301.25, -6231.07)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_3" y="304.85456" x="353.2015" stroke="#000" fill="#DDDDDD">H</text>
+ </g>
+</svg>
