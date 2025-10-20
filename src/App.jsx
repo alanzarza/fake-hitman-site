@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://youtu.be/dQw4w9WgXcQ?si=DoNW6REtAiu55rGT" target="_blank">
+        <a href="https://youtu.be/dQw4w9WgXcQ?autoplay=1" target="_blank">
           <img src={hitmanLogo} className="logo" alt="Vite logo" />
         </a>
         <h1>Hitman4Hire</h1>
