@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://youtu.be/dQw4w9WgXcQ?autoplay=1" target="_blank">
+        <a href="https://r.mtdv.me/videos/NU6MOQwGU0" target="_blank">
           <img src={hitmanLogo} className="logo" alt="Vite logo" />
         </a>
         <h1>Hitman4Hire</h1>
@@ -18,7 +18,8 @@ function App() {
       <br/>
       <h2>Voted best hitman hiring service by the New York times, Washington post, and X(the everything app)</h2>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={(e)=>{e.preventDefault;
+        window.location.href='https://r.mtdv.me/videos/NU6MOQwGU0'}}>
           Hire now
         </button>
         <p>
